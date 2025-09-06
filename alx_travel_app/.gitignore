@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.alx_travel_app_0x00_venv/
+
+# Environment variables
+.env
+
+# SQLite database (if used locally)
+*.sqlite3
+
+# Django stuff
+staticfiles/
+media/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
